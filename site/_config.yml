@@ -47,7 +47,7 @@ url: https://catchuptjc.github.io/98453676b04598ca697f21a3c385f7c36777d17a/index
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/site"
 
 # Tipue search settings
 tipue_search:
